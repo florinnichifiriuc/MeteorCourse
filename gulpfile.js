@@ -3,7 +3,7 @@ var browserSync = require('browser-sync').create();
 var filesToWatch =[
 "./**/*.css",
 "./**/*.js",
-"./**/*.html",
+"./**/*.html"
 ];
 // Static Server + watching css/js/html files
 gulp.task('serve',  function() {
