@@ -1,0 +1,19 @@
+{
+  "name": "course1",
+  "version": "1.0.0",
+  "description": "Meteor JS Course 1",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "browser-sync": "^2.11.1"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.11.1",
+    "gulp": "^3.9.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Florin Nichifiriuc",
+  "license": "ISC"
+}
