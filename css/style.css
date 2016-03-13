@@ -79,4 +79,18 @@ section.gallery article{
     width:250px;
     height: auto;
     border:5px solid #ffffff;
+    float: left;
+    margin:0 auto;
+    text-align: center;
+}
+
+section.gallery article:hover{
+    border:5px solid #cccccc;
+}
+section.gallery article span{
+    visibility: hidden;
+}
+
+section.gallery article:hover span {
+    visibility: visible;
 }
