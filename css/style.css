@@ -57,6 +57,8 @@ section.content
 aside.right {
     float: right;
     display: block;
+    margin-right: 15px;
+    width: 250px;
 }
 
 footer {
@@ -93,4 +95,14 @@ section.gallery article span{
 
 section.gallery article:hover span {
     visibility: visible;
+}
+
+i.close{
+    float:right;
+    display: block;
+    cursor: pointer;
+}
+
+.hide{
+    display: none;
 }

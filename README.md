@@ -34,3 +34,10 @@ Run gulp serve.
     * Make the footer fixed at the bottom
     * Add a border to the images when you hover, and the caption to appear under it. 
 
+
+## JS tasks:
+    
+* Create a JS file that will do:
+    * Make the aside disappear when clicking on the x button
+    * Make the form validate your user and password and show an alert saying that you added proper credentials
+    * Display an alert when clicking on the “see detail page” buttons showing the image number

@@ -21,7 +21,7 @@
     <header>
         <h1>Login page</h1>
     </header>
-    <form action="#login">
+    <form action="#login" autocomplete="off" onsubmit="return formValidate(this);">
         <p>
             <label>Username</label>
             <input type="text" name="username" placeholder="Insert your Username"/>
