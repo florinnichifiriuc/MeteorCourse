@@ -3,6 +3,7 @@ Meteor JS
 
 ## Install:
 Install node and npm, then *run npm install* in the current directory(you may need to install Python https://www.python.org/ftp/python/2.7.11/python-2.7.11.msi and check add to PATH).
+
 Run npm install -g gulp (in order to use gulp everywhere).
 
 Run gulp serve.
